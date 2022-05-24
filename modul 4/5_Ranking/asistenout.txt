@@ -1,0 +1,47 @@
+
+	Nilai Mata Kuliah Algoritma dan Pemrograman 
+
+
+	Ranking ke - [0] Anton 99.00
+
+	Ranking ke - [1] Anan 98.00
+
+	Ranking ke - [2] Lili 90.00
+
+	Ranking ke - [3] Oky 89.00
+
+	Ranking ke - [4] pipi 89.00
+
+	Ranking ke - [5] Aku 88.00
+
+	Ranking ke - [6] Putu 88.00
+
+	Ranking ke - [7] Popo 88.00
+
+	Ranking ke - [8] Yulia 87.00
+
+	Ranking ke - [9] Alo 78.00
+
+	Ranking ke - [10] Yuli 77.00
+
+	Ranking ke - [11] Ika 77.00
+
+	Ranking ke - [12] Ila 77.00
+
+	Ranking ke - [13] Putu 66.00
+
+	Ranking ke - [14] Aulia 55.00
+
+	Ranking ke - [15] Yulia 55.00
+
+	Ranking ke - [16] Koko 45.00
+
+	Ranking ke - [17] Yulia 44.00
+
+	Ranking ke - [18] Kiki 44.00
+
+	Ranking ke - [19] Yulia 33.00
+
+	Ranking ke - [20] Alia 33.00
+
+	Ranking ke - [21] Yua 32.00
